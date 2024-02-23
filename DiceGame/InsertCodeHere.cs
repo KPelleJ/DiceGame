@@ -46,6 +46,8 @@ namespace DiceGame
             Console.WriteLine(diceCup1);
             Console.WriteLine();
 
+            Console.ReadKey();
+
             // The LAST line of code should be ABOVE this line
         }
     }
